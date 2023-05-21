@@ -1,0 +1,11 @@
+command:
+  # The name of the command "/hub"
+  name: "hub"
+  # The permission of the command (set to empty for no permission)
+  permission: ""
+  # The aliases of the command
+  aliases: ["lobby", "l"]
+  # The name of server it should send you to
+  hub-server-name: "hub"
+  # The message sent to the player upon executing the command
+  message: "&eYou are now being sent to <hub_name>..."
